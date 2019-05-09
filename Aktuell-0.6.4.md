@@ -182,6 +182,7 @@ zc					Pams Harvestcraft
 1.0.8				Tips
 1.8.0				Toast Control
 2.5.1.77			Translocaters
+0.0.1a				Travellers Backpacks
 1.4.0				Tweakers Construct
 3.8.689				twilight Forest
 2.9.2				UniDict
