@@ -127,7 +127,7 @@ v2b					Clean View
 3.1.0-335			open modular turrets
 1.0-23				Open Secruity
 2.0.36				p455w0rdslib
-1.0.1.5				Packaged Auto
+1.0.2.6				Packaged Auto
 1.0.1.3				Packaged Avaritia
 zc					Pams Harvestcraft
 1.0-19				Patchouli
