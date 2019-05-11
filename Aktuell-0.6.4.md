@@ -7,7 +7,7 @@
 rv6-stable-6		applied energistics 2
 1.2.3				AquaCreepers
 3.80				architecturecraft
-1.10.17				Astral Sorcery
+1.10.18				Astral Sorcery
 1.3-28				AutoRegLib
 3.3.0.33			Avaritia 1.1x
 1.2					Avaritia IO
